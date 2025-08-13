@@ -1,0 +1,23 @@
+.user-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: url(./assets/shika-2.jpg) no-repeat center/cover; */
+}
+.card {
+  width: 400px;
+  padding: 1rem;
+  box-shadow: 0 0 15px rgb(72, 70, 70);
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+}
+.img {
+  margin: auto;
+}
+
+.img img {
+  padding: 10px;
+  border-radius: 50%;
+}
